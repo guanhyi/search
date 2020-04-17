@@ -252,7 +252,7 @@ export default {
                   lines.push({
                     source: 0,
                     target: index,
-                    value: '合作关系'
+                    value: ''
                   })
                 } else {
                   nodes.push({
@@ -299,7 +299,7 @@ export default {
                   lines.push({
                     source: 0,
                     target: index,
-                    value: '合作关系'
+                    value: ''
                   })
                 } else {
                   nodes.push({
